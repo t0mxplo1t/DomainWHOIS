@@ -38,3 +38,21 @@ Python
 
 `pip install geocoder`
 
+Installation
+----
+`apt install git`
+
+`git clone https://github.com/t0mxplo1t/DomainWHOIS.git`
+
+`cd DomainWHOIS`
+
+`python get.py`
+
+Example
+----
+`google.com`
+
+`facebook.com`
+
+`twitter.com` etc...
+
